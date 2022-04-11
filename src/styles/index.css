@@ -1,3 +1,18 @@
+.bigCounter {
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+}
+
+.bigCounter div{
+    display: inline-block;
+    font-size: 100px;
+    line-height: 100px;
+    background-color: #101010;
+    color: white;
+    padding: 10px;
+    margin: 3px;
+}
 
 /* 
 
